@@ -4,5 +4,6 @@ require_relative "easyBroker/version"
 
 module EasyBroker
   class Error < StandardError; end
-  # Your code goes here...
+ require_relative 'easybroker/easybroker_client'
+
 end
