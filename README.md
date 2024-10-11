@@ -11,7 +11,13 @@ Este proyecto es un cliente simple para consumir la API de **EasyBroker** y obte
 
 Clona el repositorio o descarga los archivos del proyecto. Luego, instala las dependencias necesarias ejecutando:
 
-```bash
+## Ejecutar el script
+ruby bin/main.rb
+
+## Ejecutar el script
+rspec
+
+```bash 
 bundle install
 
 
