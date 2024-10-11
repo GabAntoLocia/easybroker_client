@@ -14,7 +14,7 @@ Clona el repositorio o descarga los archivos del proyecto. Luego, instala las de
 ## Ejecutar el script
 ruby bin/main.rb
 
-## Ejecutar el script
+## Ejecutar pruebas
 rspec
 
 ```bash 
